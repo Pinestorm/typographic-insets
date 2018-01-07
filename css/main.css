@@ -100,3 +100,18 @@ footer {
   margin-right: .1em;
   margin-left: -.3em;
 }
+
+figure {
+  border-top: 3px solid #333;
+  border-bottom: 3px solid #333;
+  float: right;
+  width: 300px;
+  padding: .4em .2em;
+  margin-right: -150px;
+  margin-left: 10px;
+}
+
+figcaption {
+  font-size: .875rem;
+  font-style: italic;
+}
