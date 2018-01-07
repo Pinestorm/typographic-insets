@@ -118,7 +118,8 @@ figcaption {
 }
 
 blockquote {
-  font-size: 1.875rem;
+  line-height: 1;
+  font-size: 1.5rem;
   color: #666;
   float: left;
   width: 300px;
